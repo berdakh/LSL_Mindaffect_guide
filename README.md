@@ -2,7 +2,6 @@
 
 Connecting the Gtec g.USBAMP with a MindAffect Open Source BCI.
 
-https://youtu.be/DDpjOlciFrw
 
 ## Instructions
 
@@ -15,7 +14,10 @@ https://mindaffect-bci.readthedocs.io/en/latest/installation.html
 (also can be accessed via the guide folder) 
 
 https://github.com/labstreaminglayer/App-g.Tec/releases
-4)Follow the rest of the steps shown in the video (configuration & launch) (watch at 1.5x speed)
+
+4)Follow the rest of the steps shown in the video (configuration & launch)
+
+https://youtu.be/DDpjOlciFrw
 
 vladislav.mun@nu.edu.kz
 
