@@ -1,0 +1,7 @@
+REFER TO VIDEO GUIDE IN CASE OF BEING STUCK
+d:
+cd D:\gtec\g.NEEDaccess_Client_API_1.18.00_Win64\mindaffect\pymindaffectBCI\mindaffectBCI (replace with your path to mindaffect folder)
+python
+import mindaffectBCI.online_bci
+config = mindaffectBCI.online_bci.load_config("noisetag_bci2")
+mindaffectBCI.online_bci.run(**config)
